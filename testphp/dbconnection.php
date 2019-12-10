@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
-$username = "mak";
-$password = "khan1220";
+$username = "root";
+$password = "";
 $dbname = 'classicmodels';
 
 // Create connection
