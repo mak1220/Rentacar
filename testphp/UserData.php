@@ -17,8 +17,8 @@
          
        <?php
 
-      $query2="SELECT * FROM customers";
-      $result=$conn->query($query2);
+      $query="SELECT * FROM customers";
+      $result=$conn->query($query);
       $num= mysqli_num_rows($result);
       ?>
       <table border="3" cellspacing="5" cellpadding="2">
